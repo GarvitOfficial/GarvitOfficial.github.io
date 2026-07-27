@@ -1,0 +1,57 @@
+<!-- ============================================================
+     STRUCTURED DATA (Schema.org JSON-LD)
+     Add inside <head> of your HOMEPAGE (index.html)
+     ============================================================ -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Person",
+      "@id": "https://garvitbhardwaj.dev/#person",
+      "name": "Garvit Bhardwaj",
+      "url": "https://garvitbhardwaj.dev/",
+      "sameAs": [
+        "https://github.com/garvitbhardwaj",
+        "https://www.linkedin.com/in/garvitbhardwaj/"
+      ],
+      "jobTitle": "Developer & Creative Builder",
+      "description": "Garvit Bhardwaj is a developer who builds creative web projects and tools.",
+      "knowsAbout": ["Web Development", "JavaScript", "HTML", "CSS", "Algorithm Visualization", "Open Source"]
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://garvitbhardwaj.dev/#website",
+      "url": "https://garvitbhardwaj.dev/",
+      "name": "Garvit Bhardwaj",
+      "description": "Portfolio and projects by Garvit Bhardwaj — developer and creative builder.",
+      "author": { "@id": "https://garvitbhardwaj.dev/#person" }
+    },
+    {
+      "@type": "ItemList",
+      "name": "Projects by Garvit Bhardwaj",
+      "url": "https://garvitbhardwaj.dev/",
+      "itemListElement": [
+        { "@type": "ListItem", "position": 1,  "name": "brainVault",           "url": "https://garvitbhardwaj.dev/brainVault/" },
+        { "@type": "ListItem", "position": 2,  "name": "100 Ways to Say Love", "url": "https://garvitbhardwaj.dev/100ways-to-say-love/" },
+        { "@type": "ListItem", "position": 3,  "name": "blinkByte",            "url": "https://garvitbhardwaj.dev/blinkByte/" },
+        { "@type": "ListItem", "position": 4,  "name": "whoStared",            "url": "https://garvitbhardwaj.dev/whoStared/" },
+        { "@type": "ListItem", "position": 5,  "name": "canvas",               "url": "https://garvitbhardwaj.dev/canvas/" },
+        { "@type": "ListItem", "position": 6,  "name": "Maiya",                "url": "https://garvitbhardwaj.dev/Maiya/" },
+        { "@type": "ListItem", "position": 7,  "name": "timeLocator",          "url": "https://garvitbhardwaj.dev/timeLocator/" },
+        { "@type": "ListItem", "position": 8,  "name": "unbeatableTicTac",     "url": "https://garvitbhardwaj.dev/unbeatableTicTac/" },
+        { "@type": "ListItem", "position": 9,  "name": "humanWire",            "url": "https://garvitbhardwaj.dev/humanWire/" },
+        { "@type": "ListItem", "position": 10, "name": "visualizeAlgo",        "url": "https://garvitbhardwaj.dev/visualizeAlgo/" },
+        { "@type": "ListItem", "position": 11, "name": "whisperMe",            "url": "https://garvitbhardwaj.dev/whisperMe/" },
+        { "@type": "ListItem", "position": 12, "name": "visualizeFlipTheCoin", "url": "https://garvitbhardwaj.dev/visualizeFlipTheCoin/" },
+        { "@type": "ListItem", "position": 13, "name": "BoredTask",            "url": "https://garvitbhardwaj.dev/BoredTask/" },
+        { "@type": "ListItem", "position": 14, "name": "BeMyEverything",       "url": "https://garvitbhardwaj.dev/BeMyEverything/" },
+        { "@type": "ListItem", "position": 15, "name": "BeHappy",              "url": "https://garvitbhardwaj.dev/BeHappy/" },
+        { "@type": "ListItem", "position": 16, "name": "readmeForge",          "url": "https://garvitbhardwaj.dev/readmeForge/" },
+        { "@type": "ListItem", "position": 17, "name": "exposeMeNot",          "url": "https://garvitbhardwaj.dev/exposeMeNot/" },
+        { "@type": "ListItem", "position": 18, "name": "intelCanvas",          "url": "https://garvitbhardwaj.dev/intelCanvas/" }
+      ]
+    }
+  ]
+}
+</script>
