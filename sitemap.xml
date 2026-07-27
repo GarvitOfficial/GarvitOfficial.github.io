@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://sitemaps.org">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <!-- Main Website -->
   <url>
     <loc>https://garvitbhardwaj.dev</loc>
@@ -7,75 +7,75 @@
   </url>
   <!-- Sub-Projects -->
   <url>
-    <loc>https://garvitbhardwaj.devbrainVault/</loc>
+    <loc>https://garvitbhardwaj.dev/brainVault/</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://garvitbhardwaj.dev100ways-to-say-love/</loc>
+    <loc>https://garvitbhardwaj.dev/100ways-to-say-love/</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://garvitbhardwaj.devblinkByte/</loc>
+    <loc>https://garvitbhardwaj.dev/blinkByte/</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://garvitbhardwaj.devwhoStared/</loc>
+    <loc>https://garvitbhardwaj.dev/whoStared/</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://garvitbhardwaj.devcanvas/</loc>
+    <loc>https://garvitbhardwaj.dev/canvas/</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://garvitbhardwaj.devMaiya/</loc>
+    <loc>https://garvitbhardwaj.dev/Maiya/</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://garvitbhardwaj.devtimeLocator/</loc>
+    <loc>https://garvitbhardwaj.dev/timeLocator/</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://garvitbhardwaj.devunbeatableTicTac/</loc>
+    <loc>https://garvitbhardwaj.dev/unbeatableTicTac/</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://garvitbhardwaj.devhumanWire/</loc>
+    <loc>https://garvitbhardwaj.dev/humanWire/</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://garvitbhardwaj.devvisualizeAlgo/</loc>
+    <loc>https://garvitbhardwaj.dev/visualizeAlgo/</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://garvitbhardwaj.devwhisperMe/</loc>
+    <loc>https://garvitbhardwaj.dev/whisperMe/</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://garvitbhardwaj.devvisualizeFlipTheCoin/</loc>
+    <loc>https://garvitbhardwaj.dev/visualizeFlipTheCoin/</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://garvitbhardwaj.devBoredTask/</loc>
+    <loc>https://garvitbhardwaj.dev/BoredTask/</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://garvitbhardwaj.devBeMyEverything/</loc>
+    <loc>https://garvitbhardwaj.dev/BeMyEverything/</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://garvitbhardwaj.devBeHappy/</loc>
+    <loc>https://garvitbhardwaj.dev/BeHappy/</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://garvitbhardwaj.devreadmeForge/</loc>
+    <loc>https://garvitbhardwaj.dev/readmeForge/</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://garvitbhardwaj.devexposeMeNot/</loc>
+    <loc>https://garvitbhardwaj.dev/exposeMeNot/</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://garvitbhardwaj.devintelCanvas/</loc>
+    <loc>https://garvitbhardwaj.dev/intelCanvas/</loc>
     <priority>0.8</priority>
   </url>
 </urlset>
